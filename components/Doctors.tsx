@@ -20,23 +20,23 @@ export default function Doctors() {
           
           {/* Doctor Image */}
           
-           <div className="flex flex-col items-center bg-white p-6">
+           <div className="flex flex-col items-center">
   <img
-    src="/WhatsApp Image.jpeg"
+    src="/doctor.jpeg"
     alt="Dr. Rajeev Saxena"
-    className="w-[300px] md:w-[350px] h-auto"
+    className="w-[320px] md:w-[380px] h-auto rounded-2xl shadow-lg"
   />
 
-  <div className="mt-5 text-center">
-    <h4 className="text-2xl font-bold text-green-900">
+  <div className="text-center mt-5">
+    <h3 className="text-3xl font-bold text-green-900">
       Dr. Rajeev Saxena
-    </h4>
+    </h3>
 
-    <p className="text-orange-600 font-semibold mt-2">
+    <p className="text-orange-600 text-xl font-semibold mt-2">
       Ayurvedacharya (B.Sc., B.A.M.S., Kanpur University)
     </p>
 
-    <p className="text-gray-600 mt-2 font-medium">
+    <p className="text-gray-600 text-lg mt-2">
       35+ Years of Experience
     </p>
   </div>
