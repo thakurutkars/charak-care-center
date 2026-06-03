@@ -16,7 +16,7 @@ export default function Doctors() {
       </div>
 
       <div className="bg-white rounded-3xl shadow-2xl overflow-hidden max-w-5xl mx-auto">
-        <div className="grid md:grid-cols-2 items-center">
+        <div className="grid md:grid-cols-2 gap-10 items-center">
           
           {/* Doctor Image */}
           
@@ -24,7 +24,7 @@ export default function Doctors() {
   <img
     src="/WhatsApp Image.jpeg"
     alt="Dr. Rajeev Saxena"
-    className="w-[320px] h-[420px] object-cover rounded-2xl shadow-lg border"
+    className="w-[300px] md:w-[350px] h-auto"
   />
 
   <div className="mt-5 text-center">
