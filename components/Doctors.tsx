@@ -20,12 +20,26 @@ export default function Doctors() {
           
           {/* Doctor Image */}
           
-            <div className="flex justify-center items-center p-8 bg-green-50">
+            <div className="bg-green-50">
   <img
     src="/doctor.jpeg"
     alt="Doctor"
-    className="w-[320px] h-[420px] object-cover rounded-3xl shadow-xl"
+    className="w-full h-[500px] object-cover"
   />
+
+  <div className="p-5 text-center">
+    <h4 className="text-2xl font-bold text-green-900">
+      Dr. Rajeev Saxena
+    </h4>
+
+    <p className="text-orange-600 font-semibold mt-2">
+      Ayurvedacharya (B.Sc., B.A.M.S., Kanpur University)
+    </p>
+
+    <p className="text-gray-600 mt-2 font-medium">
+      35+ Years of Experience
+    </p>
+  </div>
 </div>
          
 
@@ -35,13 +49,10 @@ export default function Doctors() {
               Dr. Rajeev Saxena
             </h3>
 
-            <p className="text-orange-500 text-xl font-semibold mt-3">
-              Ayurvedacharya (B.Sc , B.A.M.S. (Kanpur University))
-              35+ years of experience 
-            </p>
+            
 
             <p className="text-gray-600 mt-6 text-lg leading-relaxed">
-              With years of experience in Ayurvedic medicine and holistic
+              With 35+ years of experience in Ayurvedic medicine and holistic
               wellness, Dr. Rajeev Saxena specializes in personalized treatment
               plans, preventive healthcare, and natural healing therapies.
             </p>
