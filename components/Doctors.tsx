@@ -36,7 +36,8 @@ export default function Doctors() {
             </h3>
 
             <p className="text-orange-500 text-xl font-semibold mt-3">
-              Senior Ayurvedic Physician
+              Ayurvedacharya (B.Sc , B.A.M.S. (Kanpur University))
+              35+ years of experience 
             </p>
 
             <p className="text-gray-600 mt-6 text-lg leading-relaxed">
