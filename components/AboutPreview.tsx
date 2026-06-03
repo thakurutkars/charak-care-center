@@ -14,7 +14,7 @@ export default function AboutPreview() {
           </h2>
 
           <p className="text-gray-600 mt-6 text-lg leading-relaxed">
-            Charak Ayurveda Care Center is dedicated to delivering authentic
+            Ayurveda 3C Charak care centre  is dedicated to delivering authentic
             Ayurvedic healthcare focused on wellness, preventive care, and
             personalized treatment guidance.
           </p>

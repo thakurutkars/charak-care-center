@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Charak Ayurveda Care Center",
+  title: "Ayurveda 3C Charak care centre ",
   description: "Holistic Ayurvedic healthcare by Dr. Rajeev Saxena",
 };
 

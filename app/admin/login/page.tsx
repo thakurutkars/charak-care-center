@@ -32,7 +32,7 @@ export default function AdminLogin() {
           </h1>
 
           <p className="text-gray-500 mt-3">
-            Charak Ayurveda Care Center Management
+            Ayurveda 3C Charak care centre  Management
           </p>
         </div>
 
@@ -64,7 +64,7 @@ export default function AdminLogin() {
         </div>
 
         <div className="text-center mt-8 text-sm text-gray-500">
-          © 2026 Charak Ayurveda Care Center
+          © 2026 Ayurveda 3C Charak care centre 
         </div>
       </div>
     </div>

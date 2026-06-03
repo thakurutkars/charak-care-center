@@ -7,7 +7,7 @@ export default function Navbar() {
         {/* Logo */}
         <div>
           <h1 className="text-lg md:text-4xl font-bold text-green-900">
-            Charak Ayurveda Care Center
+            Ayurveda 3C Charak care centre 
           </h1>
           <p className="text-orange-500 mt-1 text-[10px] md:text-lg">
             प्राकृतिक उपचार • सम्पूर्ण स्वास्थ्य
