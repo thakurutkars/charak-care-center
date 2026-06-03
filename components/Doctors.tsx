@@ -20,14 +20,14 @@ export default function Doctors() {
           
           {/* Doctor Image */}
           
-            <div className="bg-green-50">
+           <div className="flex flex-col items-center bg-white p-6">
   <img
-    src="/doctor.jpeg"
-    alt="Doctor"
-    className="w-full h-[500px] object-cover"
+    src="/WhatsApp Image.jpeg"
+    alt="Dr. Rajeev Saxena"
+    className="w-[320px] h-[420px] object-cover rounded-2xl shadow-lg border"
   />
 
-  <div className="p-5 text-center">
+  <div className="mt-5 text-center">
     <h4 className="text-2xl font-bold text-green-900">
       Dr. Rajeev Saxena
     </h4>
