@@ -91,6 +91,15 @@ export default function BookingForm() {
       return;
     }
 
+    alert(
+  "Appointment submitted successfully. You will now be redirected to the payment verification form."
+);
+
+setLoading(false);
+
+window.location.href =
+  "https://forms.gle/hmyctDoijjUPhyXA7";
+
     const whatsappMessage = `
 New Appointment Booking
 
@@ -242,11 +251,16 @@ Consultation: ${formData.consultation}
           </select>
         </div>
 
-        <button
-          onClick={handleSubmit}
-          disabled={loading}
-          className="mt-8 w-full bg-green-800 hover:bg-green-900 text-white py-4 rounded-2xl text-lg font-semibold transition"
-        >
+        <p className="text-sm text-orange-600 mt-6 mb-4 text-center">
+  Consultation Fee: ₹200.
+  After submitting your appointment request, you will be redirected to the payment verification form.
+</p>
+
+<button
+  onClick={handleSubmit}
+  disabled={loading}
+  className="mt-8 w-full bg-green-800 hover:bg-green-900 text-white py-4 rounded-2xl text-lg font-semibold transition"
+>
           {loading ? "Submitting..." : "Submit Booking Request"}
         </button>
       </div>
