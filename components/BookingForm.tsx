@@ -252,7 +252,7 @@ Consultation: ${formData.consultation}
         </div>
 
         <p className="text-sm text-orange-600 mt-6 mb-4 text-center">
-  Consultation Fee: ₹200.
+  Consultation Fee: ₹199.
   After submitting your appointment request, you will be redirected to the payment verification form.
 </p>
 
