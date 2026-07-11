@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-8 grid md:grid-cols-3 gap-12">
         <div>
           <h3 className="text-3xl font-bold">
-            Ayurveda 3C Charak care centre 
+            JEEVANT AYURVED
           </h3>
 
           <p className="mt-4 text-orange-300 italic">
@@ -48,7 +48,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10 mt-12 pt-6 text-center text-green-200 text-sm">
-        © 2026 Ayurveda 3C Charak care centre . All rights reserved.
+        © 2026 JEEVANT AYURVED. All rights reserved.
       </div>
     </footer>
   );
