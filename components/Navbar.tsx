@@ -6,9 +6,13 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo */}
         <div>
-          <h1 className="text-lg md:text-4xl font-bold text-green-900">
-            Ayurveda 3C Charak care centre 
-          </h1>
+          <h1 className="text-4xl font-bold text-green-900">
+  JEEVANT AYURVED
+</h1>
+
+<p className="text-orange-600 text-lg">
+  A Platform for Ayurvedic Consultation and Medicines
+</p>
           <p className="text-orange-500 mt-1 text-[10px] md:text-lg">
             प्राकृतिक उपचार • सम्पूर्ण स्वास्थ्य
           </p>

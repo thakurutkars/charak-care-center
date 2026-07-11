@@ -115,7 +115,7 @@ const exportBookings = () => {
 <div className="flex justify-between items-center mb-8">
   <div>
     <p className="text-green-700 font-semibold">
-      Ayurveda 3C Charak care centre  
+      JEEVANT AYURVED  
     </p>
 
     <h1 className="text-5xl font-bold text-green-950">
@@ -147,7 +147,7 @@ const exportBookings = () => {
 {/* Welcome Banner */}
 <div className="bg-gradient-to-r from-green-900 to-green-700 text-white rounded-3xl p-8 mb-10 shadow-xl">
   <p className="text-green-100">
-    Ayurveda 3C Charak care centre 
+    JEEVANT AYURVED 
   </p>
 
   <h2 className="text-4xl font-bold mt-2">

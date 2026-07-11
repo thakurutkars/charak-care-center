@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Ayurveda 3C Charak care centre ",
-  description: "Holistic Ayurvedic healthcare by Dr. Rajeev Saxena",
+export const metadata = {
+  title: "JEEVANT AYURVED",
+  description: "A Platform for Ayurvedic Consultation and Medicines",
 };
 
 export default function RootLayout({
