@@ -25,7 +25,7 @@ export default function Hero() {
         </p>
 
         <p className="mt-6 text-green-900 italic text-lg">
-          सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।
+          समदोषः समाग्निश्च समधातु मलः क्रियाः। प्रसन्नात्मेन्द्रियमनः स्वस्थ इत्यभिधीयते ॥
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 mt-10">
