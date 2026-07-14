@@ -33,9 +33,14 @@ export default function Doctors() {
     </h3>
 
     <p className="text-orange-600 text-xl font-semibold mt-2">
-      Ayurvedacharya (B.Sc., B.A.M.S., Kanpur University)
-    </p>
+  <span className="block">
+    Ayurvedacharya
+  </span>
 
+  <span className="block text-lg">
+    (B.Sc., B.A.M.S., Kanpur University)
+  </span>
+</p>
     <p className="text-gray-600 text-lg mt-2">
       35+ Years of Experience
     </p>
